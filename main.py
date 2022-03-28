@@ -80,6 +80,5 @@ class screenRecorder:
 window = Tk()
 window.iconbitmap("screenRecorder-icon.ico") # GUI window icon
 mywin = screenRecorder(window) 
-window.title('ScreenRecorder') # GUI window title
 window.geometry("200x150+10+10") # GUI window dimensions
 window.mainloop()
