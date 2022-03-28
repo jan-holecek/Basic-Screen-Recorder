@@ -18,7 +18,7 @@ class screenRecorder:
         self.title = Label(win, text="ScreenRecorder", font=("Helvetica", 16))
         self.title.pack(ipadx = 5)
 
-        # GUI description text
+        # GUI stop info text
         self.text = Label(win, text="Press Q to stop recording", font=("Helvetica", 8))
         self.text.pack(ipadx = 5)
 
