@@ -1,16 +1,10 @@
 # Basic-Screen-Recorder
+A Python GUI for recording your screen.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  
 
- [![GitHub forks](https://img.shields.io/github/forks/jan-holecek/Basic-Screen-Recorder?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/jan-holecek/Basic-Screen-Recorder?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub star](https://img.shields.io/github/stars/jan-holecek/Basic-Screen-Recorder?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
-
-
-It is an Screen Recoder using Python
-
-## Video
-
-[![IMAGE ALT TEXT HERE](https://github.com/jan-holecek/Basic-Screen-Recorder/blob/main/test.avi)
 
 
 ## Dependencies:
