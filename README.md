@@ -4,17 +4,13 @@
 </p>
 
 <h1 align="center">Basic-Screen-Recorder</h1>
-<p align="center">A Python GUI for recording your screen.</p>
 
 <div align="center">
-
-</div>
-
+  
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  
 
 [![GitHub star](https://img.shields.io/github/stars/jan-holecek/Basic-Screen-Recorder?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
-
-
+</div>
 
 ## Dependencies:
 
@@ -23,7 +19,7 @@ PyAutoGUI
 pip install pyautogui
 ```
 
-opencv-python
+Opencv
 ```
 pip install opencv-python
 ```
@@ -33,10 +29,10 @@ NumPy
 pip install numpy
 ```
 
-tkinter
+Tkinter
 ```
 pip install tkinter
 ```
 
-## Autors
+## Author
 - [@jan-holecek](https://github.com/jan-holecek)
