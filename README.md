@@ -33,6 +33,3 @@ Tkinter
 ```
 pip install tkinter
 ```
-
-## Author
-- [@jan-holecek](https://github.com/jan-holecek)
